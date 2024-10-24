@@ -5,7 +5,6 @@ A simple login-page using html &amp; Css!!
 LOGIN PAGE
 Overview
 This project consists of a simple login page built using HTML and CSS. The page includes a login form with fields for a username and password, and a submit button. The form is styled to have a background image, with elements like the form, input fields, and button styled for better user experience.
-
 Structure
 HTML Code
 DOCTYPE Declaration:
