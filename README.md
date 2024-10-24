@@ -14,7 +14,7 @@ Body Section:
 Contains the actual content of the webpage.
 The main component here is a div with the class login, which contains the login form.
 The form has:
-A heading (<h1>LOG-IN).
+A heading (<h1> LOG-IN).
 Two labeled input fields: one for the username and one for the password.
 A submit button for the user to log in.
 CSS Styling
